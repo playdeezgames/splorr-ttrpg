@@ -1,12 +1,12 @@
-# Marks
+# Ability Scores
 
-* Strength
-* Dexterity
-* Willpower
-* Influence
-* Power
+* Strength - How hard you can hit things.
+* Dexterity - How fast you can duck.
+* Willpower - How much stress you can take.
+* Influence - How well you can manipulate others.
+* Power - How well you command cheating magical stuff
 
-# Initial Marks for a new PC
+# Initial Scores for a new PC
 
 Strength, Dexterity, Willpower and Influence are a guaranteed minimum of 1. Power starts at 0.
 
@@ -31,19 +31,21 @@ Chart B:
 | 3 | +1 Willpower |
 | 4 | +1 Influence |
 | 5 | +1 Power |
-| 6 | Wild Card (choose any Mark to increase, including Power) |
+| 6 | Wild Card (choose any score to increase, including Power) |
 
-Notice that Power will be uncommon to rare, and actual choice in PC generation just as rare. This is by design. Just roll up yer character and play them for their short, likely pointless life.
+Notice that Power will be uncommon to rare, and Wild Card is just as rare. This is by design. Just roll up yer character and play them for their short, likely fruitless life. Burn quickly through yer first half dozen characters or so. Keep the character sheets in a pile. Watch the pile grow. Eventually you will come to understand how losing is fun.
 
-# Initial Points for a PC
+# Initial Stats for a PC
 
-There are two types of points that represent a character's well-being: Hit Points (HP) and Mind Points(MP)
+There are two types of stats that represent a character's well-being: Hit Points (HP) and Mind Points(MP)
 
-Typically each PC begins with 3 HP and 3 MP.
+Typically each PC begins with 3HP and 3MP.
+
+Does this mean there are rules for starting with more or fewer? Not really. If you wanna try(with GM permission) a character with 2HP and 4MP, or vice versa, go for it. The values of 3 were chosen because A) it is unlikely that a single hit will wipe out a new character and B) it is possible that two hits WILL wipe out a new character.  SPLORR!! is here to give you an almost sporting chance. The game wants you to do well. Eventually. When you get lucky.
 
 # Example Characters
 
-## Example #1:
+## Example #1: 
 
 8d6 rolls a 2, 2, 3, 4, 4, 4, 4, 4 and results in a:
 
@@ -111,3 +113,19 @@ SPLORR!! is "low fantasy" game. Power in most games is "cheating". You have an o
 SPLORR!! is a brutal world, and those who grow up there do not have a lot of choices in life. Choice is a luxury primarily for the wealthy and powerful, but on occasion will grace the lucky instead. On average, there is a 22.2% chance that there will be at least one point that the player can spend on a mark of their choosing. It is an uncommon and special thing! Almost certainly, you will spend it to get a point of Power.
 
 Additionally, one of the main design goals is quick starting and fast playing. When you spend hours on yer character, you get invested. When yer invested, yer sad when yer character dies. It if only took 30 seconds to roll up yer character, how invested are you? You won't mind when they die. WHEN, not if. SPLORR!! characters are initially very squishy and hence disposable.
+
+## What if I roll all the same number during character creation?
+
+This would wind yer character up with a 9 in Strength, Dexterity, Willpower, or Infuence, or an 8 in Power (in theory, assuming you got all 5s and 6s on the re-roll).
+
+In the case of the 8 Power character, you'll be an absolute beast at everything. Until yer MP runs out after three actions. Then yer character will be nice and squishy, and likely wind up something's lunch.
+
+In the case of a 9 Strength character, you will almost always hit, and often do maximum damage, but you won't be able to dodge damage very long, and will likely die quickly.
+
+In the case of a 9 Dexterity character, you will almost never get physically damaged. Eventually somebody will realize this and demoralize you and press you into forced labor doing tasks that require amazing manual dexterity.
+
+In the case of a 9 Willpower character, you will never be dominated or indentured. However, yer 1 Dexterity means you won't last long in combat.
+
+In the case of a 9 Influence character, you will talk a good talk, but you had better dominate something with better defenses quickly to protect you, because otherwise you are likely to wind up a greasy spot.
+
+So go ahead and play these nearly impossible to roll characters. They won't last any longer than any of the other characters do.

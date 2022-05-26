@@ -67,7 +67,19 @@ The damage is applied either to the defender's MP or to some item that adds to W
 
 If the attacker is using some sort of item to enhance their Moxie for this attack, it, too must make a saving throw or take MP.
 
-Once the defender is brought to zero or lower in MP, they surrender.
+Once the defender is brought to zero or lower in MP, they surrender or run. They can no longer bear to fight.
+
+So that's a cool mechanic... using mental combat to subdue yer foes.
+
+But it gives rise quickly to all sorts of abuse, so we have different rules for when you can use mental combat versus when you cannnot.
+
+Pretty much all the time you can engage in physical combat. Most of those times are a bad idea, but the _possibility_ still exists.
+
+If yer character and their party is in a superior tactical position, like more people, stronger people, etc, then the enemy cannot whittle you down with mental attacks.
+
+Similarly, if the reason for fighting is driven by previously demonstrated values held by the character, then it can be ruled that they might be immune to such attack, or at least have some sort of "mental armor" as a result. It is situational.
+
+Generally mental combat is for when you've outnumbered, cornered, and outclassed yer enemy, but don't want to kill them because you can make more money capturing and ransoming them.
 
 # Moar Questions You Did Not Ask
 

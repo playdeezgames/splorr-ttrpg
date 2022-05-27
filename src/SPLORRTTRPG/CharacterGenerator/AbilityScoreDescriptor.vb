@@ -9,11 +9,10 @@ End Class
 Module AbilityScoreDescriptorExtensions
     Friend AbilityScoreDescriptors As New Dictionary(Of AbilityScore, AbilityScoreDescriptor) From
         {
-            {AbilityScore.Dexterity, New AbilityScoreDescriptor("DEX", 1)},
-            {AbilityScore.Influence, New AbilityScoreDescriptor("INF", 1)},
-            {AbilityScore.Power, New AbilityScoreDescriptor("POW", 1)},
             {AbilityScore.Strength, New AbilityScoreDescriptor("STR", 1)},
-            {AbilityScore.Willpower, New AbilityScoreDescriptor("WIL", 0)},
-            {AbilityScore.None, New AbilityScoreDescriptor("-", 0)}
+            {AbilityScore.Dexterity, New AbilityScoreDescriptor("DEX", 1)},
+            {AbilityScore.Willpower, New AbilityScoreDescriptor("WIL", 1)},
+            {AbilityScore.Influence, New AbilityScoreDescriptor("INF", 1)},
+            {AbilityScore.Power, New AbilityScoreDescriptor("POW", 0)}
         }
 End Module

@@ -1,5 +1,5 @@
-﻿Public Class PlayerCharacterSheet
-    Inherits CharacterSheet
+﻿Public Class PlayerCharacter
+    Inherits Character
     Sub New()
         MyBase.New
         Const GenerationDiceCount As Integer = 8
@@ -24,5 +24,18 @@
                 AbilityScore.Power)))))
             AbilityScores(ability) += 1
         Next
+        MaximumHP = 3
+        HP = 3
+        MaximumMP = 3
+        MP = 3
+        Weapon = New Weapon With
+            {
+                .Name = "fist",
+                .AttackBonus = 0,
+                .HP = Integer.MaxValue,
+                .MaximumHP = Integer.MaxValue,
+                .SavingThrow = 1,
+                .MaximumDamage = 1
+            }
     End Sub
 End Class

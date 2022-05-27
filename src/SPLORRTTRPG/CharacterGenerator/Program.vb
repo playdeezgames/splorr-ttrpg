@@ -7,7 +7,7 @@ Module Program
         prompt.AddChoice("Done")
         Do
             AnsiConsole.Clear()
-            Dim characterSheet As New PlayerCharacterSheet
+            Dim characterSheet As New PlayerCharacter
 
             For Each entry In characterSheet.AbilityScores
                 AnsiConsole.MarkupLine($"{entry.Key.Name}: {entry.Value}")

@@ -1,7 +1,7 @@
 ﻿Public Class PlayerCharacter
     Inherits Character
     Sub New()
-        MyBase.New
+        MyBase.New("Bob the N00b")
         Const GenerationDiceCount As Integer = 8
         For Each descriptor In AbilityScoreDescriptors
             AbilityScores(descriptor.Key) = descriptor.Value.Minimum

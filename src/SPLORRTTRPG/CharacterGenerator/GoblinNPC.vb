@@ -1,7 +1,7 @@
 ﻿Public Class GoblinNPC
     Inherits Character
     Sub New()
-        MyBase.New
+        MyBase.New("Hector the Goblin")
         MaximumHP = 1
         HP = 1
         MaximumMP = 1

@@ -49,7 +49,7 @@ If damage is applied to armor, the weapon used must make a saving throw or it is
 
 When a character's own HP are gone, they are incapacitated and unconscious. Overkill will kill the character immediately. Incapacitated characters offer no defense for further HP damage, and any further physical strikes will kill the character.
 
-## Mental Combat
+## Submission Combat
 
 One character attempts to taunt, intimidate, or belittle another character.
 

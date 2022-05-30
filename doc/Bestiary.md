@@ -11,4 +11,4 @@
 | POW | 0 ||
 | HP | 1 ||
 | MP | 1 ||
-| Weapon | Club | MaxDmg 1, WHP 3, WST 4 |
+| Weapon | Club | MaxDmg 1, DUR 3, ST 4 |
